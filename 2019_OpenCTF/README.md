@@ -40,7 +40,7 @@
 | [AsmReader](./Reversing/AsmReader) | 50 |
 | [I Love Cubics](./Reversing/I_Love_Cubics) | 100 |
 | [Favorite](./Reversing/Favorite) | 200 |
-| [Nobody told knotted Pythons are fast](./Reversing/Nobody told knotted Pythons are fast) | 250 |
+| [Nobody told knotted Pythons are fast](./Reversing/Nobody_told_knotted_Pythons_are_fast) | 250 |
 
 
 

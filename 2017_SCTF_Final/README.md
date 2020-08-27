@@ -7,7 +7,7 @@
 |------|------|
 | [Imager](./attack/Imager) | 230 |
 | [HacktheDrone](./attack/HacktheDrone) | 335 |
-| [My Diary](./attack/My Diary) | 250 |
+| [My Diary](./attack/My_Diary) | 250 |
 | [Webpage as a Service](./attack/Webpage_as_a_service) | 858 |
 | [Report](./attack/Report) | 608 |
 
