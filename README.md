@@ -9,7 +9,7 @@
 | [SCTF 2018 Quals](./2018_SCTF_Quals) | 2018.06.30 09:00 - 07.01 09:00 (24 Hr) |
 | [SCTF 2018 Final](2018_SCTF_Final) | 2018.08.26 10:00 - 08.27 10:00 (24 Hr) |
 | [2019 OpenCTF](./2019_OpenCTF) | 2019.08.20 10:00 - 16:00 (6 Hr) |
-| [2020 Hacker's Playground](./2020/Hacker's_Playground) | 2020.08.17 10:00 - 16:00 (6 Hr) |
+| [2020 Hacker's Playground](./2020_Hackers_Playground) | 2020.08.17 10:00 - 16:00 (6 Hr) |
 
 
 
