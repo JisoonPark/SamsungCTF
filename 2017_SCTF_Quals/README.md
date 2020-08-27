@@ -7,7 +7,7 @@
 | Challenge | Point |
 |------|------|
 | [readFlag](./attack/readFlag)         | 100   |
-| [Letter To Me](./attack/Letter To Me) | 300   |
+| [Letter To Me](./attack/Letter_To_Me) | 300   |
 | [msg](./attack/msg)                   | 400   |
 | [labyrinth](./attack/labyrinth)       | 450   |
 | [Asm3](./attack/asm3)                 | 750   |
@@ -29,7 +29,7 @@
 |------|------|
 | [BuildingBlocks](./coding/buildingblocks)         | 250   |
 | [ASM](./coding/ASM)                               | 500   |
-| [Turing Competition](./coding/Turing Competition) | 700   |
+| [Turing Competition](./coding/Turing_Competition) | 700   |
 
 
 

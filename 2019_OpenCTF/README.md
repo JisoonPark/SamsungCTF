@@ -6,10 +6,10 @@
 | Challenge | Point |
 |------|------|
 | [bofsb](./Attack/bofsb)                                      | 50       |
-| [Forbidden Snack](./Attack/Forbidden Snack)                  | 100      |
+| [Forbidden Snack](./Attack/Forbidden_Snack)                 | 100      |
 | [babyjs](./Attack/babyjs)                                    | 150      |
 | [HackersChat](./Attack/HackersChat)                          | 200      |
-| [Worms are spreding around the smart buildings](./Attack/Worms are spreding around the smart buildings) - 1F, 2F | 150, 200 |
+| [Worms are spreding around the smart buildings](./Attack/Worms_are_spreding_around_the_smart_buildings) - 1F, 2F | 150, 200 |
 
 
 
@@ -19,7 +19,7 @@
 | [Hidden Clues](./Defense/Hidden_Clues)     | 50    |
 | [Coding Machine](./Defense/Coding_Machine) | 100   |
 | [Manife...](./Defense/Manife)                    | 300  |
-| [Incident Response](./Defense/Incident response) | 250  |
+| [Incident Response](./Defense/Incident_response) | 250  |
 
 
 
@@ -28,8 +28,8 @@
 | Challenge | Point |
 |------|------|
 | [MyStego](./Coding/MyStego)          | 50 |
-| [Segmentation Fault](./Coding/Segmentation Fault)          | 100 |
-| [Shell Code Diet](./Coding/Shell Code Diet) | 50 - 170 |
+| [Segmentation Fault](./Coding/Segmentation_Fault)         | 100 |
+| [Shell Code Diet](./Coding/Shell_Code_Diet) | 50 - 170 |
 
 
 

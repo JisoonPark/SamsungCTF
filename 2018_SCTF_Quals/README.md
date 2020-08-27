@@ -32,7 +32,7 @@
 | Challenge | Point |
 |------|------|
 | [HideInSSL](./coding/HideInSSL) | 176 |
-| [What does the drone say?](./coding/What_does_the_drone_say%3F) | 903 |
+| [What does the drone say?](./coding/What_does_the_drone_say_) | 903 |
 | [λ: Beauty](./coding/Lambda_Beauty) | 629 |
 
 

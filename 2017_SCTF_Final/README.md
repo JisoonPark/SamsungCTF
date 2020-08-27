@@ -8,7 +8,7 @@
 | [Imager](./attack/Imager) | 230 |
 | [HacktheDrone](./attack/HacktheDrone) | 335 |
 | [My Diary](./attack/My Diary) | 250 |
-| [Webpage as a Service](./attack/Webpage as a service) | 858 |
+| [Webpage as a Service](./attack/Webpage_as_a_service) | 858 |
 | [Report](./attack/Report) | 608 |
 
 
@@ -35,7 +35,7 @@
 | Challenge | Point |
 |------|------|
 | [thumb](./reversing/thumb) | 476 |
-| [Chicken and Egg](./reversing/Chicken and Egg) | 520 |
+| [Chicken and Egg](./reversing/Chicken_and_Egg) | 520 |
 | [Grrrr](./reversing/grrrr) | 697 |
 
 

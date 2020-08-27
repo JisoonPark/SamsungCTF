@@ -13,8 +13,8 @@
 | [Decrypt Vulnerable Data #2](./Decrypt_Vulnerable_Data_2) | #Crypto #Coding | 500 |
 | [Sound Captcha](./sound-captcha) | #Web #Coding | 182 |
 | [T express](./T-express) | #Binary #pwn | 182 |
-| [Vault 101](./Vault 101) | #App #Rev | 194 |
-| [Vault 102](./Vault 102) | #App #Rev | 377 |
+| [Vault 101](./Vault_101) | #App #Rev | 194 |
+| [Vault 102](./Vault_102) | #App #Rev | 377 |
 | [Migration](./migration) | #Web #pwn | 218 |
 | [Expected Value](./ExpectedValue) | #Binary #Coding | 240 |
 | [Eat the pie](./eat_the_pie) | #Binary #pwn | 240 |
@@ -22,4 +22,4 @@
 | [HTB](./HTB) | #Web #pwn | 271 |
 | [Half-Lib](./Half-Lib) | #App #Rev | 315 |
 | [Baby ROCA](./BabyROCA) | #Crypto | 416 |
-| [Secure SHell](./Secure SHell) | #Crypto | 500 |
+| [Secure SHell](./Secure_SHell) | #Crypto | 500 |
